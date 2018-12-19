@@ -1,4 +1,4 @@
-<div class="vgr-layout-2-4" id="main-content" role="main">
+<div class="vgr-layout-2-4-1" id="main-content" role="main">
 	<div class="portlet-layout row">
 		<div class="col-md-9 portlet-column portlet-column-first" id="column-1">
 			$processor.processColumn("column-1", "portlet-column-content portlet-column-content-first")
